@@ -98,9 +98,12 @@ df = df.drop('description', axis = 1)
 df['country'] = df['country'].str.split(',').str[0].str.strip()
 
 #Format the date_added column
-df['date_added'] = pd.to_datetime(df['date_added'].str.strip(), format = '%B %d, %Y')
+df['date_added'] = pd.to_datetime(df['date_added'].str.strip(), format = '%B %d, %Y', errors = 'coerce')
 df['year_added'] = df['date_added'].dt.year
 df['month_added'] = df['date_added'].dt.month
 
+#Last cleaning
+df['title'] = df['title'].str.strip()
+
 #Export the file after cleanup.
-df.to_csv(r'dataset/netflix_cleaned.csv', index = False)
+df.to_csv(r'dataset/netflix_cleaned.csv', index = False, encoding = 'utf-8-sig')

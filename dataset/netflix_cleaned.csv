@@ -1,4 +1,4 @@
-show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,year_added,month_added
+﻿show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,year_added,month_added
 s1,Movie,Dick Johnson Is Dead,Kirsten Johnson,Unknown,United States,2021-09-25,2020,PG-13,90 min,Documentaries,2021,9
 s2,TV Show,Blood & Water,Unknown,"Ama Qamata, Khosi Ngema, Gail Mabalane, Thabang Molaba, Dillon Windvogel, Natasha Thahane, Arno Greeff, Xolile Tshabalala, Getmore Sithole, Cindy Mahlangu, Ryle De Morny, Greteli Fincham, Sello Maake Ka-Ncube, Odwa Gwanya, Mekaila Mathys, Sandi Schultz, Duane Williams, Shamilla Miller, Patrick Mofokeng",South Africa,2021-09-24,2021,TV-MA,2 Seasons,"International TV Shows, TV Dramas, TV Mysteries",2021,9
 s3,TV Show,Ganglands,Julien Leclercq,"Sami Bouajila, Tracy Gotoas, Samuel Jouy, Nabiha Akkari, Sofia Lesaffre, Salim Kechiouche, Noureddine Farihi, Geert Van Rampelberg, Bakary Diombera",France,2021-09-24,2021,TV-MA,1 Season,"Crime TV Shows, International TV Shows, TV Action & Adventure",2021,9
@@ -6522,7 +6522,7 @@ s6526,Movie,Concrete Football,"Jesse Adang, Syrine Boulanouar",Unknown,Czech Rep
 s6527,Movie,Concussion,Stacie Passon,"Robin Weigert, Maggie Siff, Johnathan Tchaikovsky, Ben Shenkman, Janel Moloney, Emily Kinney",United States,2018-08-02,2013,R,96 min,"Dramas, Independent Movies, LGBTQ Movies",2018,8
 s6528,Movie,Conjuring Spirit,Van M. Pham,"Phuong Mai, Quang Su, Hoang Phuc Nguyen, Chi Pu, Tien Pham, Hoai An",Vietnam,2018-08-28,2014,TV-MA,112 min,"Horror Movies, International Movies, Thrillers",2018,8
 s6529,Movie,Conor McGregor: Notorious,Gavin Fitzgerald,Conor McGregor,Ireland,2018-03-21,2017,R,90 min,"Documentaries, Sports Movies",2018,3
-s6530,Movie,Consequences ,Ozan Açıktan,"Nehir Erdoğan, Tardu Flordun, İlker Kaleli, Serkan Keskin, Esra Bezen Bilgin, Aytaç Uşun, Cem Özeren, Caner Arçkan",Turkey,2019-10-25,2014,TV-MA,106 min,"Dramas, International Movies, Thrillers",2019,10
+s6530,Movie,Consequences,Ozan Açıktan,"Nehir Erdoğan, Tardu Flordun, İlker Kaleli, Serkan Keskin, Esra Bezen Bilgin, Aytaç Uşun, Cem Özeren, Caner Arçkan",Turkey,2019-10-25,2014,TV-MA,106 min,"Dramas, International Movies, Thrillers",2019,10
 s6531,Movie,Contract,Ram Gopal Varma,"Adhvik Mahajan, Prasad Purandhare, Sakshi Gulati, Zakir Hussain, Amruta Subhash, Kishore Kadam, Sumeet Nijhawan, Upyendra Limaye",India,2019-03-02,2008,TV-14,116 min,"Action & Adventure, Dramas, Independent Movies",2019,3
 s6532,Movie,Convict,Abdul Aziz Hashad,"Bassem Samra, Ahmad Wafiq, Ahmed Azmy, Dina Fouad, Mohamed Sharaf, Ahmed Rateb, Maha Sabry, Diaa El Merghany, Inas Ezz El Din, Said Tarabeek",Unknown,2019-06-13,2014,TV-14,97 min,"Dramas, International Movies",2019,6
 s6533,TV Show,Cooking on High,Unknown,"Josh Leyva, Ngaio Bealum",United States,2018-06-22,2018,TV-MA,1 Season,Reality TV,2018,6
