@@ -102,6 +102,11 @@ df['date_added'] = pd.to_datetime(df['date_added'].str.strip(), format = '%B %d,
 df['year_added'] = df['date_added'].dt.year
 df['month_added'] = df['date_added'].dt.month
 
+#Duel with string column
+str_col = df.select_dtypes(include = ['object', 'string']).columns
+for c in str_col:
+    df[c] = df[c].str.replace(r'\s+',' ', regex = True).str.strip()
+
 #Last cleaning
 df['title'] = df['title'].str.strip()
 
